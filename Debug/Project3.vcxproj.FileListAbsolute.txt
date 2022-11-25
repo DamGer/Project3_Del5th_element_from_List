@@ -1,0 +1,2 @@
+C:\Users\Temnik\source\repos\interview\Project3\Debug\Project3.exe
+C:\Users\Temnik\source\repos\interview\Project3\Debug\Project3.pdb
